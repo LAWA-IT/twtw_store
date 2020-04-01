@@ -1,0 +1,1056 @@
+/* ----------- Galaxy Tab 2 ----------- */
+
+/* Portrait and Landscape */
+@media 
+  (min-device-width: 800px) 
+  and (max-device-width: 1280px) {body{
+    background-color: rgb(3, 12, 29);
+}
+a.cssload-preloader {
+position: absolute;
+top: 0px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+z-index: 10;
+}
+/*bashe xwaroman 3yam copyright*/
+#p1{
+color: thistle;
+text-align: center;
+font-size: larger;
+}
+#p2{
+color:rgb(253,92,0);
+text-align: center;
+font-size:large;
+}
+#p3{
+color:rgb(253, 0, 0);
+text-align: center;
+font-size:large;
+}
+/*preloader bashe sarata*/
+.cssload-preloader > .cssload-preloader-box {
+position: absolute;
+height: 29px;
+top: 50%;
+left:150px;
+margin: 0px 0px;
+perspective: 195px;
+    -o-perspective: 195px;
+    -ms-perspective: 195px;
+    -webkit-perspective: 195px;
+    -moz-perspective: 195px;
+}
+/*preloader bashe nawarast bo bayane darajay HW ba 29 bet lagal LH w qabara 19 bo nusin */ 
+.cssload-preloader .cssload-preloader-box > div {
+position: relative;
+width: 36px;
+height: 39px;
+background: rgb(204,204,204);
+float: left;
+text-align: center;
+line-height: 39px;
+font-family: Verdana;
+font-size: 25px;
+color: rgb(255,255,255);
+/*childkan la 1 ta 9 ka 590 xeray w duresh ba daraja 86 arwa bo har boxek*/
+}.cssload-preloader .cssload-preloader-box > div:nth-child(1) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 0ms infinite alternate;
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(2) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(3) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(4) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 258.75ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(5) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(6) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(7) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(8) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 603.75.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(9) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 590ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 690ms infinite alternate;
+   
+}
+/*dure newan har boxek 86.25 cm  kate transimition 0.25ms
+195 auto center*/
+
+@keyframes cssload-movement {
+from {
+    transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*yakam*/
+@-o-keyframes cssload-movement {
+from {
+    -o-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -o-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*daraja ms */
+@-ms-keyframes cssload-movement {
+from {
+    -ms-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -ms-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*webkitaka*/
+@-webkit-keyframes cssload-movement {
+from {
+    -webkit-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -webkit-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*mozaka*/
+@-moz-keyframes cssload-movement {
+from {
+    -moz-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -moz-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+} 
+}
+/* Landscape */
+@media 
+  (max-device-width: 1280px) 
+  and (orientation: landscape) {body{
+    background-color: rgb(3, 12, 29);
+}
+a.cssload-preloader {
+position: absolute;
+top: 0px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+z-index: 10;
+}
+/*bashe xwaroman 3yam copyright*/
+#p1{
+color: thistle;
+text-align: center;
+font-size: larger;
+}
+#p2{
+color:rgb(253,92,0);
+text-align: center;
+font-size:large;
+}
+#p3{
+color:rgb(253, 0, 0);
+text-align: center;
+font-size:large;
+}
+/*preloader bashe sarata*/
+.cssload-preloader > .cssload-preloader-box {
+position: absolute;
+height: 29px;
+top: 50%;
+left:150px;
+margin: 0px 0px;
+perspective: 195px;
+    -o-perspective: 195px;
+    -ms-perspective: 195px;
+    -webkit-perspective: 195px;
+    -moz-perspective: 195px;
+}
+/*preloader bashe nawarast bo bayane darajay HW ba 29 bet lagal LH w qabara 19 bo nusin */ 
+.cssload-preloader .cssload-preloader-box > div {
+position: relative;
+width: 36px;
+height: 39px;
+background: rgb(204,204,204);
+float: left;
+text-align: center;
+line-height: 39px;
+font-family: Verdana;
+font-size: 25px;
+color: rgb(255,255,255);
+/*childkan la 1 ta 9 ka 590 xeray w duresh ba daraja 86 arwa bo har boxek*/
+}.cssload-preloader .cssload-preloader-box > div:nth-child(1) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 0ms infinite alternate;
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(2) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(3) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(4) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 258.75ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(5) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(6) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(7) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(8) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 603.75.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(9) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 590ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 690ms infinite alternate;
+   
+}
+/*dure newan har boxek 86.25 cm  kate transimition 0.25ms
+195 auto center*/
+
+@keyframes cssload-movement {
+from {
+    transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*yakam*/
+@-o-keyframes cssload-movement {
+from {
+    -o-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -o-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*daraja ms */
+@-ms-keyframes cssload-movement {
+from {
+    -ms-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -ms-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*webkitaka*/
+@-webkit-keyframes cssload-movement {
+from {
+    -webkit-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -webkit-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*mozaka*/
+@-moz-keyframes cssload-movement {
+from {
+    -moz-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -moz-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+} 
+
+}
+/* ----------- Galaxy Tab S w 4 w 5 w mini  ----------- */
+
+/* Portrait and Landscape */
+@media 
+  (min-device-width: 800px) 
+  and (max-device-width: 1280px)
+  and (-webkit-min-device-pixel-ratio: 2) {body{
+    background-color: rgb(3, 12, 29);
+}
+a.cssload-preloader {
+position: absolute;
+top: 0px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+z-index: 10;
+}
+/*bashe xwaroman 3yam copyright*/
+#p1{
+color: thistle;
+text-align: center;
+font-size: larger;
+}
+#p2{
+color:rgb(253,92,0);
+text-align: center;
+font-size:large;
+}
+#p3{
+color:rgb(253, 0, 0);
+text-align: center;
+font-size:large;
+}
+/*preloader bashe sarata*/
+.cssload-preloader > .cssload-preloader-box {
+position: absolute;
+height: 29px;
+top: 50%;
+left:150px;
+margin: 0px 0px;
+perspective: 195px;
+    -o-perspective: 195px;
+    -ms-perspective: 195px;
+    -webkit-perspective: 195px;
+    -moz-perspective: 195px;
+}
+/*preloader bashe nawarast bo bayane darajay HW ba 29 bet lagal LH w qabara 19 bo nusin */ 
+.cssload-preloader .cssload-preloader-box > div {
+position: relative;
+width: 36px;
+height: 39px;
+background: rgb(204,204,204);
+float: left;
+text-align: center;
+line-height: 39px;
+font-family: Verdana;
+font-size: 25px;
+color: rgb(255,255,255);
+/*childkan la 1 ta 9 ka 590 xeray w duresh ba daraja 86 arwa bo har boxek*/
+}.cssload-preloader .cssload-preloader-box > div:nth-child(1) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 0ms infinite alternate;
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(2) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(3) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(4) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 258.75ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(5) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(6) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(7) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(8) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 603.75.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(9) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 590ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 690ms infinite alternate;
+   
+}
+/*dure newan har boxek 86.25 cm  kate transimition 0.25ms
+195 auto center*/
+
+@keyframes cssload-movement {
+from {
+    transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*yakam*/
+@-o-keyframes cssload-movement {
+from {
+    -o-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -o-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*daraja ms */
+@-ms-keyframes cssload-movement {
+from {
+    -ms-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -ms-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*webkitaka*/
+@-webkit-keyframes cssload-movement {
+from {
+    -webkit-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -webkit-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*mozaka*/
+@-moz-keyframes cssload-movement {
+from {
+    -moz-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -moz-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+} 
+
+
+}
+
+/* Portrait */
+@media 
+  (max-device-width: 800px) 
+  and (orientation: portrait)
+  and (-webkit-min-device-pixel-ratio: 2) { 
+	body{
+		background-color: rgb(3, 12, 29);
+	}
+	a.cssload-preloader {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	z-index: 10;
+	}
+	/*bashe xwaroman 3yam copyright*/
+	#p1{
+	color: thistle;
+	text-align: center;
+	font-size: larger;
+	}
+	#p2{
+	color:rgb(253,92,0);
+	text-align: center;
+	font-size:large;
+	}
+	#p3{
+	color:rgb(253, 0, 0);
+	text-align: center;
+	font-size:large;
+	}
+	/*preloader bashe sarata*/
+	.cssload-preloader > .cssload-preloader-box {
+	position: absolute;
+	height: 29px;
+	top: 50%;
+	left:150px;
+	margin: 0px 0px;
+	perspective: 195px;
+		-o-perspective: 195px;
+		-ms-perspective: 195px;
+		-webkit-perspective: 195px;
+		-moz-perspective: 195px;
+	}
+	/*preloader bashe nawarast bo bayane darajay HW ba 29 bet lagal LH w qabara 19 bo nusin */ 
+	.cssload-preloader .cssload-preloader-box > div {
+	position: relative;
+	width: 36px;
+	height: 39px;
+	background: rgb(204,204,204);
+	float: left;
+	text-align: center;
+	line-height: 39px;
+	font-family: Verdana;
+	font-size: 25px;
+	color: rgb(255,255,255);
+	/*childkan la 1 ta 9 ka 590 xeray w duresh ba daraja 86 arwa bo har boxek*/
+	}.cssload-preloader .cssload-preloader-box > div:nth-child(1) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 590ms ease 0ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 0ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 0ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 0ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 0ms infinite alternate;
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(2) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+	
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(3) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+	   
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(4) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 690ms ease 258.75ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+		
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(5) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 590ms ease 345ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 345ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 345ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 345ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 345ms infinite alternate;
+		
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(6) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+	   
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(7) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+		
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(8) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 603.75.5ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+	   
+	}
+	.cssload-preloader .cssload-preloader-box > div:nth-child(9) {
+	background: rgb(0,0,0);
+	margin-right: 18px;
+	animation: cssload-movement 690ms ease 590ms infinite alternate;
+		-o-animation: cssload-movement 590ms ease 690ms infinite alternate;
+		-ms-animation: cssload-movement 590ms ease 690ms infinite alternate;
+		-webkit-animation: cssload-movement 590ms ease 690ms infinite alternate;
+		-moz-animation: cssload-movement 590ms ease 690ms infinite alternate;
+	   
+	}
+	/*dure newan har boxek 86.25 cm  kate transimition 0.25ms
+	195 auto center*/
+	
+	@keyframes cssload-movement {
+	from {
+		transform: scale(1.0) translateY(0px) rotateX(0deg);
+		box-shadow: 0 0 0 rgba(0,0,0,0);
+	}
+	to {
+		transform: scale(1.5) translateY(-24px) rotateX(45deg);
+		box-shadow: 0 24px 39px rgb(253,92,0);
+		background: rgb(253,92,0);
+	}
+	}
+	/*yakam*/
+	@-o-keyframes cssload-movement {
+	from {
+		-o-transform: scale(1.0) translateY(0px) rotateX(0deg);
+		box-shadow: 0 0 0 rgba(0,0,0,0);
+	}
+	to {
+		-o-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+		box-shadow: 0 24px 39px rgb(253,92,0);
+		background: rgb(253,92,0);
+	}
+	}
+	/*daraja ms */
+	@-ms-keyframes cssload-movement {
+	from {
+		-ms-transform: scale(1.0) translateY(0px) rotateX(0deg);
+		box-shadow: 0 0 0 rgba(0,0,0,0);
+	}
+	to {
+		-ms-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+		box-shadow: 0 24px 39px rgb(253,92,0);
+		background: rgb(253,92,0);
+	}
+	}
+	/*webkitaka*/
+	@-webkit-keyframes cssload-movement {
+	from {
+		-webkit-transform: scale(1.0) translateY(0px) rotateX(0deg);
+		box-shadow: 0 0 0 rgba(0,0,0,0);
+	}
+	to {
+		-webkit-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+		box-shadow: 0 24px 39px rgb(253,92,0);
+		background: rgb(253,92,0);
+	}
+	}
+	/*mozaka*/
+	@-moz-keyframes cssload-movement {
+	from {
+		-moz-transform: scale(1.0) translateY(0px) rotateX(0deg);
+		box-shadow: 0 0 0 rgba(0,0,0,0);
+	}
+	to {
+		-moz-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+		box-shadow: 0 24px 39px rgb(253,92,0);
+		background: rgb(253,92,0);
+	}
+	} 
+	
+}
+
+/* Landscape */
+@media 
+  (max-device-width: 1280px) 
+  and (orientation: landscape)
+  and (-webkit-min-device-pixel-ratio: 2) { body{
+    background-color: rgb(3, 12, 29);
+}
+a.cssload-preloader {
+position: absolute;
+top: 0px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+z-index: 10;
+}
+/*bashe xwaroman 3yam copyright*/
+#p1{
+color: thistle;
+text-align: center;
+font-size: larger;
+}
+#p2{
+color:rgb(253,92,0);
+text-align: center;
+font-size:large;
+}
+#p3{
+color:rgb(253, 0, 0);
+text-align: center;
+font-size:large;
+}
+/*preloader bashe sarata*/
+.cssload-preloader > .cssload-preloader-box {
+position: absolute;
+height: 29px;
+top: 50%;
+left:150px;
+margin: 0px 0px;
+perspective: 195px;
+    -o-perspective: 195px;
+    -ms-perspective: 195px;
+    -webkit-perspective: 195px;
+    -moz-perspective: 195px;
+}
+/*preloader bashe nawarast bo bayane darajay HW ba 29 bet lagal LH w qabara 19 bo nusin */ 
+.cssload-preloader .cssload-preloader-box > div {
+position: relative;
+width: 36px;
+height: 39px;
+background: rgb(204,204,204);
+float: left;
+text-align: center;
+line-height: 39px;
+font-family: Verdana;
+font-size: 25px;
+color: rgb(255,255,255);
+/*childkan la 1 ta 9 ka 590 xeray w duresh ba daraja 86 arwa bo har boxek*/
+}.cssload-preloader .cssload-preloader-box > div:nth-child(1) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 0ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 0ms infinite alternate;
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(2) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 86.25ms infinite alternate;
+
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(3) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 172.5ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(4) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 258.75ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 258.75ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(5) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 345ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(6) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 431.25ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(7) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(8) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 590ms ease 517.5ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 603.75.5ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 603.75ms infinite alternate;
+   
+}
+.cssload-preloader .cssload-preloader-box > div:nth-child(9) {
+background: rgb(0,0,0);
+margin-right: 18px;
+animation: cssload-movement 690ms ease 590ms infinite alternate;
+    -o-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -ms-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -webkit-animation: cssload-movement 590ms ease 690ms infinite alternate;
+    -moz-animation: cssload-movement 590ms ease 690ms infinite alternate;
+   
+}
+/*dure newan har boxek 86.25 cm  kate transimition 0.25ms
+195 auto center*/
+
+@keyframes cssload-movement {
+from {
+    transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*yakam*/
+@-o-keyframes cssload-movement {
+from {
+    -o-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -o-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*daraja ms */
+@-ms-keyframes cssload-movement {
+from {
+    -ms-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -ms-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*webkitaka*/
+@-webkit-keyframes cssload-movement {
+from {
+    -webkit-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -webkit-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+}
+/*mozaka*/
+@-moz-keyframes cssload-movement {
+from {
+    -moz-transform: scale(1.0) translateY(0px) rotateX(0deg);
+    box-shadow: 0 0 0 rgba(0,0,0,0);
+}
+to {
+    -moz-transform: scale(1.5) translateY(-24px) rotateX(45deg);
+    box-shadow: 0 24px 39px rgb(253,92,0);
+    background: rgb(253,92,0);
+}
+} 
+
+
+}
